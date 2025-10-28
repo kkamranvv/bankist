@@ -1,0 +1,27 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "Welcome to the Bankist Project! This is a web application that allows users to manage their bank accounts, request loans, and perform basic banking operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkamranvv/bankist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkamranvv/bankist/issues"
+  },
+  "homepage": "https://github.com/kkamranvv/bankist#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.9.3",
+    "undici-types": "^7.16.0"
+  }
+}
